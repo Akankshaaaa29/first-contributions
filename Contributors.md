@@ -23,6 +23,7 @@
 - [Kaushal Damania](https://github.com/kaushal4)
 - [Baribor Saturday](https://github.com/Baribor)
 - [Himanshi Sharma](https://github.com/himanshi2511)
+- [Akanksha Jha](https://github.com/akankshaaaa29)
 - [darmozrac](https://github.com/darmozrac)
 - [RohanKGP](https://github.com/RohanKGP)
 - [Muhammad Bilal](https://github.com/muhammadbilal20130)
